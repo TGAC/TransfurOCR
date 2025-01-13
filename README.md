@@ -9,6 +9,9 @@ Here, we use ExplaiNN to predict open chromatin regions as a proxy for functiona
 
 
 **References:**
+
 ExplaiNN: interpretable and transparent neural networks for genomics
+
 Gherman Novakovsky, Oriol Fornes, Manu Saraswat, Sara Mostafavi & Wyeth W. Wasserman
+
 Genome Biololgy volume 24, Article number: 154 (2023). doi: 10.1186/s13059-023-02985-y.
