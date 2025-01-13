@@ -8,7 +8,7 @@ ExplaiNN adapts neural additive models to answer biological questions: https://g
 Here, we use ExplaiNN to predict open chromatin regions as a proxy for functional non-coding elements and transfer these predictions to other species.
 
 
-**References:**
+## References:
 
 ExplaiNN: interpretable and transparent neural networks for genomics
 
